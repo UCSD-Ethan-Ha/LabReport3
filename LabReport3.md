@@ -23,5 +23,10 @@ Successful input:
     assertArrayEquals(new int[]{ 3 }, input1);
 	}
 ```
+The symptom:
 
+
+
+Part 2
+---
 
