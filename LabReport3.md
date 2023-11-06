@@ -24,7 +24,11 @@ Successful input:
 	}
 ```
 The symptom:
+With the failure-inducing input:
+![image](Failed_JUnit.jpg)
 
+With the successful input:
+![image](Successful_JUnitTest.jpg)
 
 
 Part 2
