@@ -54,6 +54,15 @@ static void reverseInPlace(int[] arr) {
   }
 ```
 
-Part 2
+Part 2: Researching "find"
 ---
+
+Source: https://man7.org/linux/man-pages/man1/find.1.html   
+
+___"-name"___:   
+
+![image]
+
+
+
 
